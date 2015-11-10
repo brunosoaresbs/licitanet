@@ -1,2 +1,0 @@
-# licitanet
-Código site Licitanet
